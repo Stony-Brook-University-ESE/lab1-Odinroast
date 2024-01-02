@@ -4,6 +4,9 @@
 
 int main() {
     printf("Hello World");
+    print('H');
 }
 
-sivnspvndsafb
+void print_name() {
+    printf("Name");
+}
